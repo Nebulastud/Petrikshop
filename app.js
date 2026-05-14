@@ -97,7 +97,7 @@ function renderProducts() {
       <h3>${product.name}</h3>
       <p class="product-meta">${product.meta}</p>
       <p class="product-price">${formatRupiah(product.price)}</p>
-      <a class="add-button detail-button" href="${product.slug}">Detail Produk</a>
+      <a class="add-button detail-button" href="${product.slug}">ＤＥＴＡＩＬ ＰＲＯＤＵＫ</a>
     `;
     productListEl.appendChild(card);
   });
