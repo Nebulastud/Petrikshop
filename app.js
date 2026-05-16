@@ -17,7 +17,7 @@ const products = [
   },
   {
     "id": 2,
-    "name": "𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙵𝚁𝙴𝚂𝙷 𝙰𝟸𝙵 𝙴𝙼𝙰𝙸𝙻 𝙰𝙺𝚂𝙴𝚂",
+    "name": "𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙵𝚁𝙴𝚂𝙷 𝙲𝙾𝙾𝙺𝙸𝙴𝚂",
     "category": "𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊",
     "price": 1600,
     "slug": "fb fresh cookies.html",
@@ -29,7 +29,23 @@ const products = [
       "Nyaman dan adem dipakai",
       "Tersedia ukuran S sampai XL",
       "Cocok untuk aktivitas harian"
-    ]
+     ]
+    },
+   {
+    "id": 2,
+    "name": "𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙰𝟸𝙵 𝟷𝟶𝟶+ 𝙿𝙴𝚁𝚃𝙴𝙼𝙰𝙽𝙰𝙽",
+    "category": "𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊",
+    "price": 1600,
+    "slug": "fb fresh cookies.html",
+    "image": "facebook.png",
+    "meta": "ᴀᴋᴜɴ ꜰʀᴇꜱʜ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
+    "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
+    "specs": [
+      "Bahan cotton combed premium",
+      "Nyaman dan adem dipakai",
+      "Tersedia ukuran S sampai XL",
+      "Cocok untuk aktivitas harian"
+   ]
   },
   {
     "id": 4,
