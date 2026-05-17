@@ -32,7 +32,7 @@ const products = [
      ]
     },
    {
-    "id": 2,
+    "id": 3,
     "name": "𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙰𝟸𝙵 𝟷𝟶𝟶+ 𝙿𝙴𝚁𝚃𝙴𝙼𝙰𝙽𝙰𝙽",
     "category": "𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊",
     "price": 5000,
@@ -61,10 +61,42 @@ const products = [
       "Nyaman dan adem dipakai",
       "Tersedia ukuran S sampai XL",
       "Cocok untuk aktivitas harian"
+   ]
+  },
+  {
+    "id": 5,
+    "name": "𝙱𝚄𝚂𝚂𝙸𝙽𝙴𝚂 𝙼𝙰𝙽𝙰𝙶𝙴𝚁",
+    "category": "𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊",
+    "price": 50000,
+    "slug": "fb old cookies.html",
+    "image": "facebook.png",
+    "meta": "ᴀᴋᴜɴ ᴏʟᴅ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
+    "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
+    "specs": [
+      "Bahan cotton combed premium",
+      "Nyaman dan adem dipakai",
+      "Tersedia ukuran S sampai XL",
+      "Cocok untuk aktivitas harian"
+   ]
+  },
+  {
+    "id": 6,
+    "name": "𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙰𝟸𝙵 & 𝙷𝙰𝙻𝙰𝙼𝙰𝙽 𝙵𝙸𝚃𝚄𝚁 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿",
+    "category": "𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊",
+    "price": 6000,
+    "slug": "fb old cookies.html",
+    "image": "facebook.png",
+    "meta": "ᴀᴋᴜɴ ᴏʟᴅ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
+    "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
+    "specs": [
+      "Bahan cotton combed premium",
+      "Nyaman dan adem dipakai",
+      "Tersedia ukuran S sampai XL",
+      "Cocok untuk aktivitas harian"
     ]
    },
   {
-    "id": 4,
+    "id": 7,
     "name": "𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙾𝙻𝙳 𝙰𝟸𝙵 𝙾𝙽",
     "category": "𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊",
     "price": 10000,
