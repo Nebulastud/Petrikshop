@@ -86,7 +86,7 @@ const products = [
     "price": 6000,
     "slug": "fb old cookies.html",
     "image": "facebook.png",
-    "meta": "ᴀᴋᴜɴ ᴏʟᴅ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
+    "meta": "ᴀᴋᴜɴ ꜰʀᴇꜱʜ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
     "specs": [
       "Bahan cotton combed premium",
