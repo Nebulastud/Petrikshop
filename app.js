@@ -36,7 +36,7 @@ const products = [
     "name": "𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙰𝟸𝙵 𝟷𝟶𝟶+ 𝙿𝙴𝚁𝚃𝙴𝙼𝙰𝙽𝙰𝙽",
     "category": "𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊",
     "price": 5000,
-    "slug": "fb fresh cookies.html",
+    "slug": "fb fresh a2f 100 teman.html",
     "image": "facebook.png",
     "meta": "ᴀᴋᴜɴ ꜰʀᴇꜱʜ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
