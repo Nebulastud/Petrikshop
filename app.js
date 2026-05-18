@@ -84,7 +84,7 @@ const products = [
     "name": "𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙰𝟸𝙵 & 𝙷𝙰𝙻𝙰𝙼𝙰𝙽 𝙵𝙸𝚃𝚄𝚁 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿",
     "category": "𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊",
     "price": 6000,
-    "slug": "fb old cookies.html",
+    "slug": "fb + halaman.html",
     "image": "facebook.png",
     "meta": "ᴀᴋᴜɴ ꜰʀᴇꜱʜ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
