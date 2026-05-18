@@ -110,6 +110,22 @@ const products = [
       "Tersedia ukuran S sampai XL",
       "Cocok untuk aktivitas harian"
     ]
+   },
+  {
+    "id": 8,
+    "name": "𝙲𝙷𝙰𝚃 𝙶𝙿𝚃 𝙿𝙻𝚄𝚂+",
+    "category": "𝐂𝐇𝐀𝐓 𝐆𝐏𝐓",
+    "price": 25000,
+    "slug": "chat gpt plus+.html",
+    "image": "chatgpt.png",
+    "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
+    "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
+    "specs": [
+      "Bahan cotton combed premium",
+      "Nyaman dan adem dipakai",
+      "Tersedia ukuran S sampai XL",
+      "Cocok untuk aktivitas harian"      
+    ]
   }
 ];
 
