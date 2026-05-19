@@ -128,8 +128,8 @@ const products = [
     ]
    },
   {
-    "id": 8,
-    "name": "𝙲𝙷𝙰𝚃 𝙶𝙿𝚃 𝙿𝙻𝚄𝚂+",
+    "id": 9,
+    "name": "𝙲𝙷𝙰𝚃 𝙶𝙿𝚃 𝙶𝙾",
     "category": "𝐂𝐇𝐀𝐓 𝐆𝐏𝐓",
     "price": 25000,
     "slug": "chat gpt plus+.html",
@@ -140,7 +140,24 @@ const products = [
       "Bahan cotton combed premium",
       "Nyaman dan adem dipakai",
       "Tersedia ukuran S sampai XL",
-      "Cocok untuk aktivitas harian" 
+      "Cocok untuk aktivitas harian"
+
+    ]
+   },
+  {
+    "id": 10,
+    "name": "𝙱𝚂𝚃𝙰𝚃𝙸𝙾𝙽",
+    "category": "𝐁𝐒𝐓𝐀𝐓𝐈𝐎𝐍",
+    "price": 25000,
+    "slug": "chat gpt plus+.html",
+    "image": "chatgpt.png",
+    "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
+    "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
+    "specs": [
+      "Bahan cotton combed premium",
+      "Nyaman dan adem dipakai",
+      "Tersedia ukuran S sampai XL",
+      "Cocok untuk aktivitas harian"      
     ]
   }
 ];
