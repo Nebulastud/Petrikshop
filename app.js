@@ -160,9 +160,9 @@ const products = [
     ]
    },
   {
-    "id": 10,
-    "name": "𝙱𝚂𝚃𝙰𝚃𝙸𝙾𝙽",
-    "category": "𝐁𝐒𝐓𝐀𝐓𝐈𝐎𝐍",
+    "id": 11,
+    "name": "𝙰𝙿𝙿𝙻𝙴 𝙼𝚄𝚂𝙸𝙲",
+    "category": "𝐀𝐏𝐏𝐋𝐄 𝐌𝐔𝐒𝐈𝐂",
     "price": 25000,
     "slug": "chat gpt plus+.html",
     "image": "chatgpt.png",
@@ -176,9 +176,9 @@ const products = [
     ]
    },
   {
-    "id": 10,
-    "name": "𝙱𝚂𝚃𝙰𝚃𝙸𝙾𝙽",
-    "category": "𝐁𝐒𝐓𝐀𝐓𝐈𝐎𝐍",
+    "id": 12,
+    "name": "𝙻𝙴𝙾𝙽𝙰𝚁𝙳𝙾 𝙰𝙸",
+    "category": "𝐋𝐄𝐎𝐍𝐀𝐑𝐃𝐎 𝐀𝐈",
     "price": 25000,
     "slug": "chat gpt plus+.html",
     "image": "chatgpt.png",
@@ -192,9 +192,9 @@ const products = [
     ]
    },
   {
-    "id": 10,
-    "name": "𝙱𝚂𝚃𝙰𝚃𝙸𝙾𝙽",
-    "category": "𝐁𝐒𝐓𝐀𝐓𝐈𝐎𝐍",
+    "id": 13,
+    "name": "𝙰𝙻𝙻𝙸𝙶𝙷𝚃𝙼𝙾𝚃𝙸𝙾𝙽",
+    "category": "𝐀𝐋𝐋𝐈𝐆𝐇𝐓𝐌𝐎𝐓𝐈𝐎𝐍",
     "price": 25000,
     "slug": "chat gpt plus+.html",
     "image": "chatgpt.png",
@@ -208,7 +208,7 @@ const products = [
     ]
    },
   {
-    "id": 10,
+    "id": 14,
     "name": "𝙱𝚂𝚃𝙰𝚃𝙸𝙾𝙽",
     "category": "𝐁𝐒𝐓𝐀𝐓𝐈𝐎𝐍",
     "price": 25000,
