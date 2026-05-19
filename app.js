@@ -149,7 +149,7 @@ const products = [
     "category": "𝐁𝐒𝐓𝐀𝐓𝐈𝐎𝐍",
     "price": 25000,
     "slug": "chat gpt plus+.html",
-    "image": "chatgpt.png",
+    "image": "bst.png",
     "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
     "specs": [
@@ -165,7 +165,7 @@ const products = [
     "category": "𝐀𝐏𝐏𝐋𝐄 𝐌𝐔𝐒𝐈𝐂",
     "price": 25000,
     "slug": "chat gpt plus+.html",
-    "image": "chatgpt.png",
+    "image": "applem.png",
     "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
     "specs": [
@@ -181,7 +181,7 @@ const products = [
     "category": "𝐋𝐄𝐎𝐍𝐀𝐑𝐃𝐎 𝐀𝐈",
     "price": 25000,
     "slug": "chat gpt plus+.html",
-    "image": "chatgpt.png",
+    "image": " leonardo.png",
     "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
     "specs": [
@@ -196,8 +196,8 @@ const products = [
     "name": "𝙰𝙻𝙻𝙸𝙶𝙷𝚃𝙼𝙾𝚃𝙸𝙾𝙽",
     "category": "𝐀𝐋𝐋𝐈𝐆𝐇𝐓𝐌𝐎𝐓𝐈𝐎𝐍",
     "price": 25000,
-    "slug": "chat gpt plus+.html",
-    "image": "chatgpt.png",
+    "slug": "ch.html",
+    "image": "algt.png",
     "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
     "specs": [
@@ -205,22 +205,7 @@ const products = [
       "Nyaman dan adem dipakai",
       "Tersedia ukuran S sampai XL",
       "Cocok untuk aktivitas harian"
-    ]
-   },
-  {
-    "id": 14,
-    "name": "𝙱𝚂𝚃𝙰𝚃𝙸𝙾𝙽",
-    "category": "𝐁𝐒𝐓𝐀𝐓𝐈𝐎𝐍",
-    "price": 25000,
-    "slug": "chat gpt plus+.html",
-    "image": "chatgpt.png",
-    "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
-    "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
-    "specs": [
-      "Bahan cotton combed premium",
-      "Nyaman dan adem dipakai",
-      "Tersedia ukuran S sampai XL",
-      "Cocok untuk aktivitas harian"      
+      
     ]
   }
 ];
