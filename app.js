@@ -165,7 +165,7 @@ const products = [
     "category": "𝐀𝐏𝐏𝐋𝐄 𝐌𝐔𝐒𝐈𝐂",
     "price": 25000,
     "slug": "chat gpt plus+.html",
-    "image": "applem.png",
+    "image": "applemusic.png",
     "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
     "specs": [
@@ -197,7 +197,7 @@ const products = [
     "category": "𝐀𝐋𝐋𝐈𝐆𝐇𝐓𝐌𝐎𝐓𝐈𝐎𝐍",
     "price": 25000,
     "slug": "ch.html",
-    "image": "algt.png",
+    "image": "allightmotion.png",
     "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
     "specs": [
