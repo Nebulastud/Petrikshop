@@ -13,8 +13,8 @@
         "bg": {
           "type": "image",
           "size": [
-            "100%",
-            "100%"
+            "96%",
+            "96%"
           ],
           "fill": true,
           "texture": "textures/ui/newbg",
