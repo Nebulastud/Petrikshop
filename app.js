@@ -181,7 +181,7 @@ const products = [
     "category": "𝐋𝐄𝐎𝐍𝐀𝐑𝐃𝐎 𝐀𝐈",
     "price": 25000,
     "slug": "chat gpt plus+.html",
-    "image": " leonardo.png",
+    "image": "leonardoai.png",
     "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
     "specs": [
