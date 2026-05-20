@@ -139,7 +139,7 @@
                                 "title": {
                                   "type": "label",
                                   "text": "PLAYER MENU",
-                                  "font_scale_factor": 1.6,
+                                  "font_scale_factor": 2.0,
                                   "anchor_from": "center",
                                   "anchor_to": "center",
                                   "layer": 3,
@@ -148,9 +148,9 @@
                                     -1
                                   ],
                                   "color": [
-                                    0.32,
-                                    0.32,
-                                    0.32
+                                    1,
+                                    1,
+                                    1
                                   ]
                                 }
                               }
