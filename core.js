@@ -30,7 +30,7 @@ const CHAT_DEVICES = [
 let sidebarEnabledFallback = false;
 
 const ownerMenuButtons = [
-  { text: "SIDEBAR", icon: "textures/menu/sidebar", action: "sidebar" },
+  { text: "SIDEBAR", icon: "textures/button/sidebar", action: "sidebar" },
   { text: "RANK\nMANAGEMENT", icon: "textures/button/menu_rank", action: "owner_submenu", title: "§r§a§n§k§m§g§r" },
   { text: "TIME\nSET", icon: "textures/button/menu_time", action: "owner_submenu", title: "§t§i§m§e§s§e§t" },
   { text: "GAMEMODE", icon: "textures/button/menu_gamemode", action: "owner_submenu", title: "§g§a§m§e§m§o§d§e" },
@@ -53,14 +53,14 @@ const ownerMenuButtons = [
 ];
 
 const itemOwnerButtons = [
-  { text: "COMMAND\nBLOCK", icon: "textures/button/command_block", command: "give @s command_block", message: "§aCOMMAND BLOCK diberikan." },
-  { text: "EGG NPC", icon: "textures/button/egg_npc", command: "give @s spawn_egg 1 51", message: "§aEGG NPC diberikan." },
-  { text: "BARRIER", icon: "textures/button/barrier", command: "give @s barrier", message: "§aBARRIER diberikan." },
-  { text: "DENY\nBLOCK", icon: "textures/button/deny_block", command: "give @s deny", message: "§aDENY BLOCK diberikan." },
-  { text: "LIGHT\nBLOCK", icon: "textures/button/light_block", command: "give @s light_block", message: "§aLIGHT BLOCK diberikan." },
-  { text: "BORDER", icon: "textures/button/border_block", command: "give @s border_block", message: "§aBORDER diberikan." },
-  { text: "STRUCTURE\nBLOCK", icon: "textures/button/structure_block", command: "give @s structure_block", message: "§aSTRUCTURE BLOCK diberikan." },
-  { text: "STRUCTURE\nVOID", icon: "textures/button/structure_void", command: "give @s structure_void", message: "§aSTRUCTURE VOID diberikan." }
+  { text: "COMMAND\nBLOCK", icon: "textures/button/command_block", command: "give @s command_block", message: "§aCommand block sudah diberikan." },
+  { text: "EGG NPC", icon: "textures/button/egg_npc", command: "give @s spawn_egg 1 51", message: "§aEgg npc sudah diberikan." },
+  { text: "BARRIER", icon: "textures/button/barrier", command: "give @s barrier", message: "§aBarrier sudah diberikan." },
+  { text: "DENY\nBLOCK", icon: "textures/button/deny_block", command: "give @s deny", message: "§aDeny block sudah diberikan." },
+  { text: "LIGHT\nBLOCK", icon: "textures/button/light_block", command: "give @s light_block", message: "§aLight block sudah diberikan." },
+  { text: "BORDER", icon: "textures/button/border_block", command: "give @s border_block", message: "§aBorder sudah diberikan." },
+  { text: "STRUCTURE\nBLOCK", icon: "textures/button/structure_block", command: "give @s structure_block", message: "§aStructure block sudah diberikan." },
+  { text: "STRUCTURE\nVOID", icon: "textures/button/structure_void", command: "give @s structure_void", message: "§aStructure void sudah diberikan." }
 ];
 
 const playerMenuButtons = [
