@@ -149,7 +149,7 @@ const products = [
     "category": "𝐁𝐒𝐓𝐀𝐓𝐈𝐎𝐍",
     "price": 25000,
     "slug": "chat gpt plus+.html",
-    "image": "bst.png",
+    "image": "bstation.png",
     "meta": "ᴀɪ ᴘʀᴇᴍɪᴜᴍ ᴋᴜᴀʟɪᴛᴀꜱ ᴛᴇʀʙᴀɪᴋ ᴘᴇᴛʀɪᴋ ꜱʜᴏᴘ",
     "desc": "Kaos basic premium dengan bahan lembut, adem, dan nyaman dipakai sehari-hari. Cocok untuk gaya kasual modern.",
     "specs": [
