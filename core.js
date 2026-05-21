@@ -87,57 +87,57 @@ const CHAT_DEVICES = [
 let sidebarEnabledFallback = true;
 
 const ownerMenuButtons = [
-  { text: "§lSIDEBAR", icon: "textures/button/sidebar_icon", action: "sidebar" },
-  { text: "RANK\nMANAGEMENT", icon: "textures/button/rank_icon", action: "owner_submenu", title: "§r§a§n§k§m§g§r" },
-  { text: "TIME\nSET", icon: "textures/button/time_icon", action: "owner_submenu", title: "§t§i§m§e§s§e§t" },
-  { text: "GAMEMODE", icon: "textures/button/gamemode_icon", action: "owner_submenu", title: "§g§a§m§e§m§o§d§e" },
-  { text: "PLAYER", icon: "textures/button/player_icon", action: "owner_submenu", title: "§p§l§a§y§e§r§m" },
-  { text: "GACHA\nSET", icon: "textures/button/gachaset_icon", action: "owner_submenu", title: "§g§a§c§h§a§s§e§t" },
-  { text: "CLEARLAG", icon: "textures/button/clearlag_icon", action: "owner_submenu", title: "§c§l§e§a§r§l§a§g" },
-  { text: "BROADCAST", icon: "textures/button/broadcast_icon", action: "owner_submenu", title: "§b§r§o§a§d§c§a§s§t" },
-  { text: "NPC\nSISTEM", icon: "textures/button/npc_icon", action: "owner_submenu", title: "§n§p§c§s§i§s§t§e§m" },
-  { text: "FLOATING\nTEXT", icon: "textures/button/floatingtext_icon", action: "owner_submenu", title: "§f§l§o§a§t§t§e§x§t" },
-  { text: "LOBY\nPROTEK", icon: "textures/button/lobyprotek_icon", action: "owner_submenu", title: "§l§o§b§y§p§r§o§t§e§k" },
-  { text: "SHOP\nSISTEM", icon: "textures/button/shopsistem_icon", action: "owner_submenu", title: "§s§h§o§p§s§i§s§t§e§m" },
-  { text: "SET\nSPAWN", icon: "textures/button/setspawn_icon", action: "owner_submenu", title: "§s§e§t§s§p§a§w§n" },
-  { text: "VIEW\nREPORT", icon: "textures/button/viewreport_icon", action: "owner_submenu", title: "§v§i§e§w§r§e§p§o§r§t" },
-  { text: "BAN\nITEM", icon: "textures/button/banitem_icon", action: "owner_submenu", title: "§b§a§n§i§t§e§m" },
-  { text: "BAN\nPLAYER", icon: "textures/button/banplayer_icon", action: "owner_submenu", title: "§b§a§n§p§l§a§y§e§r" },
-  { text: "EMOTE", icon: "textures/button/emote_icon", action: "owner_submenu", title: "§e§m§o§t§e" },
-  { text: "CREDITE", icon: "textures/button/credite_icon", action: "owner_submenu", title: "§c§r§e§d§i§t§e" },
-  { text: "ANTI\nCHEAT", icon: "textures/button/anticheat_icon", action: "owner_submenu", title: "§a§n§t§i§c§h§e§a§t" },
-  { text: "ITEM", icon: "textures/button/item", action: "item_owner_icon" }
+  { text: "§lSIDEBAR", icon: "textures/button/sidebar", action: "sidebar" },
+  { text: "§lRANK\n§lMANAGEMENT", icon: "textures/button/rankseting", action: "owner_submenu", title: "§r§a§n§k§m§g§r" },
+  { text: "§lTIMESET", icon: "textures/button/timeset", action: "owner_submenu", title: "§t§i§m§e§s§e§t" },
+  { text: "§lGAMEMODE", icon: "textures/button/gamemode", action: "owner_submenu", title: "§g§a§m§e§m§o§d§e" },
+  { text: "§lPLAYER", icon: "textures/button/player", action: "owner_submenu", title: "§p§l§a§y§e§r§m" },
+  { text: "§lGACHA\n§lSETING", icon: "textures/button/gachaseting", action: "owner_submenu", title: "§g§a§c§h§a§s§e§t" },
+  { text: "§lCLEARLAG", icon: "textures/button/clearlag", action: "owner_submenu", title: "§c§l§e§a§r§l§a§g" },
+  { text: "§lBROADCAST", icon: "textures/button/broadcast", action: "owner_submenu", title: "§b§r§o§a§d§c§a§s§t" },
+  { text: "§lNPC\n§lSISTEM", icon: "textures/button/npcsistem", action: "owner_submenu", title: "§n§p§c§s§i§s§t§e§m" },
+  { text: "§lFLOATING\n§lTEXT", icon: "textures/button/floatingtext_icon", action: "owner_submenu", title: "§f§l§o§a§t§t§e§x§t" },
+  { text: "§lLOBY\n§lPROTEK", icon: "textures/button/lobyprotek", action: "owner_submenu", title: "§l§o§b§y§p§r§o§t§e§k" },
+  { text: "§lSHOP\n§lSISTEM", icon: "textures/button/shopsistem", action: "owner_submenu", title: "§s§h§o§p§s§i§s§t§e§m" },
+  { text: "§lSET SPAWN", icon: "textures/button/setspawn", action: "owner_submenu", title: "§s§e§t§s§p§a§w§n" },
+  { text: "§lVIEW\n§lREPORT", icon: "textures/button/viewreport", action: "owner_submenu", title: "§v§i§e§w§r§e§p§o§r§t" },
+  { text: "§lBAN\n§lITEM", icon: "textures/button/banitem", action: "owner_submenu", title: "§b§a§n§i§t§e§m" },
+  { text: "§lBAN\n§lPLAYER", icon: "textures/button/banplayer", action: "owner_submenu", title: "§b§a§n§p§l§a§y§e§r" },
+  { text: "§lEMOTE", icon: "textures/button/emote", action: "owner_submenu", title: "§e§m§o§t§e" },
+  { text: "§l§eCREDITE", icon: "textures/button/credite", action: "owner_submenu", title: "§c§r§e§d§i§t§e" },
+  { text: "§lANTI\n§lCHEAT", icon: "textures/button/anticheat", action: "owner_submenu", title: "§a§n§t§i§c§h§e§a§t" },
+  { text: "§lITEM", icon: "textures/button/item", action: "item_owner_icon" }
 ];
 
 const itemOwnerButtons = [
-  { text: "COMMAND\nBLOCK", icon: "textures/button/command_block", command: "give @s command_block", message: "§aCommand block sudah diberikan." },
-  { text: "EGG NPC", icon: "textures/button/egg_npc", command: "give @s spawn_egg 1 51", message: "§aEgg npc sudah diberikan." },
-  { text: "BARRIER", icon: "textures/button/barrier", command: "give @s barrier", message: "§aBarrier sudah diberikan." },
-  { text: "DENY\nBLOCK", icon: "textures/button/deny_block", command: "give @s deny", message: "§aDeny block sudah diberikan." },
-  { text: "LIGHT\nBLOCK", icon: "textures/button/light_block", command: "give @s light_block", message: "§aLight block sudah diberikan." },
-  { text: "BORDER", icon: "textures/button/border_block", command: "give @s border_block", message: "§aBorder sudah diberikan." },
-  { text: "STRUCTURE\nBLOCK", icon: "textures/button/structure_block", command: "give @s structure_block", message: "§aStructure block sudah diberikan." },
-  { text: "STRUCTURE\nVOID", icon: "textures/button/structure_void", command: "give @s structure_void", message: "§aStructure void sudah diberikan." }
+  { text: "§lCOMMAND\n§lBLOCK", icon: "textures/button/command_block", command: "give @s command_block", message: "§aCommand block sudah diberikan." },
+  { text: "§lEGG NPC", icon: "textures/button/egg_npc", command: "give @s spawn_egg 1 51", message: "§aEgg npc sudah diberikan." },
+  { text: "§lBARRIER", icon: "textures/button/barrier", command: "give @s barrier", message: "§aBarrier sudah diberikan." },
+  { text: "§lDENY\n§lBLOCK", icon: "textures/button/deny_block", command: "give @s deny", message: "§aDeny block sudah diberikan." },
+  { text: "§lLIGHT\n§lBLOCK", icon: "textures/button/light_block", command: "give @s light_block", message: "§aLight block sudah diberikan." },
+  { text: "§lBORDER", icon: "textures/button/border_block", command: "give @s border_block", message: "§aBorder sudah diberikan." },
+  { text: "§lSTRUCTURE\n§lBLOCK", icon: "textures/button/structure_block", command: "give @s structure_block", message: "§aStructure block sudah diberikan." },
+  { text: "§lSTRUCTURE\n§lVOID", icon: "textures/button/structure_void", command: "give @s structure_void", message: "§aStructure void sudah diberikan." }
 ];
 
 const playerMenuButtons = [
-  { text: "REPORT\nPLAYER", icon: "textures/button/reportplayer_icon", action: "player_submenu", title: "§r§e§p§o§r§t§p§l§a§y§e§r" },
-  { text: "SHOP\nMENU", icon: "textures/button/shopmenu_icon", action: "player_submenu", title: "§s§h§o§p§m§e§n§u" },
-  { text: "BACK\nPACK", icon: "textures/button/backpack_icon", action: "player_submenu", title: "§b§a§c§k§p§a§c§k" },
-  { text: "RANK\nMENU", icon: "textures/button/rank_menu", action: "player_submenu", title: "§r§a§n§k§m§e§n§u" },
-  { text: "BANK\nMENU", icon: "textures/button/bankmenu_icon", action: "player_submenu", title: "§b§a§n§k§m§e§n§u" },
+  { text: "§lREPORT\n§lPLAYER", icon: "textures/button/reportplayer", action: "player_submenu", title: "§r§e§p§o§r§t§p§l§a§y§e§r" },
+  { text: "§lSHOP\n§lMENU", icon: "textures/button/shopmenu", action: "player_submenu", title: "§s§h§o§p§m§e§n§u" },
+  { text: "§lBACK\n§lPACK", icon: "textures/button/backpack", action: "player_submenu", title: "§b§a§c§k§p§a§c§k" },
+  { text: "§lRANK\n§lMENU", icon: "textures/button/rankmenu", action: "player_submenu", title: "§r§a§n§k§m§e§n§u" },
+  { text: "§lBANK\n§lMENU", icon: "textures/button/bankmenu", action: "player_submenu", title: "§b§a§n§k§m§e§n§u" },
   { text: "TRANSFER\nMONEY", icon: "textures/button/transfermoney_icon", action: "player_submenu", title: "§t§r§a§n§s§f§e§r§m§o§n§e§y" },
-  { text: "CLAIM\nLAND", icon: "textures/button/claimland", action: "player_submenu", title: "§c§l§a§i§m§l§a§n§d" },
-  { text: "SET\nHOME", icon: "textures/button/sethome", action: "player_submenu", title: "§s§e§t§h§o§m§e" },
-  { text: "PLAYER\nWARP", icon: "textures/button/playerwarp", action: "player_submenu", title: "§p§l§a§y§e§r§w§a§r§p" },
-  { text: "DAFTAR\nWARP", icon: "textures/button/menu_spawn", action: "player_submenu", title: "§d§a§f§t§a§r§w§a§r§p" },
-  { text: "RANDOM\nTELEPORT", icon: "textures/button/menu_spawn", action: "player_submenu", title: "§r§a§n§d§o§m§t§e§l§e§p§o§r§t" },
-  { text: "TELEPORT\nREQUEST", icon: "textures/button/menu_player", action: "player_submenu", title: "§t§e§l§e§p§o§r§t§r§e§q" },
-  { text: "GACHA", icon: "textures/button/menu_gacha", action: "player_submenu", title: "§g§a§c§h§a§m§e§n§u" },
-  { text: "RANK\nSHOP", icon: "textures/button/menu_rank", action: "player_submenu", title: "§r§a§n§k§s§h§o§p" },
-  { text: "PROFIL\nINFO", icon: "textures/button/menu_player", action: "player_submenu", title: "§p§r§o§f§i§l§i§n§f§o" },
-  { text: "MINI\nGAME", icon: "textures/button/menu_gamemode", action: "player_submenu", title: "§m§i§n§i§g§a§m§e" },
-  { text: "CREDIT", icon: "textures/button/menu_broadcast", action: "player_submenu", title: "§c§r§e§d§i§t" }
+  { text: "§lCLAIM\n§lLAND", icon: "textures/button/claimland", action: "player_submenu", title: "§c§l§a§i§m§l§a§n§d" },
+  { text: "§lSET\n§lHOME", icon: "textures/button/sethome", action: "player_submenu", title: "§s§e§t§h§o§m§e" },
+  { text: "§lPLAYER\n§lWARP", icon: "textures/button/playerwarp", action: "player_submenu", title: "§p§l§a§y§e§r§w§a§r§p" },
+  { text: "§lDAFTAR\n§lWARP", icon: "textures/button/daftarwarp", action: "player_submenu", title: "§d§a§f§t§a§r§w§a§r§p" },
+  { text: "§lRANDOM\n§lTELEPORT", icon: "textures/button/randomtp", action: "player_submenu", title: "§r§a§n§d§o§m§t§e§l§e§p§o§r§t" },
+  { text: "§lTELEPORT\n§lREQUEST", icon: "textures/button/tpa", action: "player_submenu", title: "§t§e§l§e§p§o§r§t§r§e§q" },
+  { text: "§lGACHA", icon: "textures/button/gacha", action: "player_submenu", title: "§g§a§c§h§a§m§e§n§u" },
+  { text: "§lRANK\n§lSHOP", icon: "textures/button/rankshop", action: "player_submenu", title: "§r§a§n§k§s§h§o§p" },
+  { text: "§lPROFIL\n§lINFO", icon: "textures/button/profileinfo", action: "player_submenu", title: "§p§r§o§f§i§l§i§n§f§o" },
+  { text: "§lMINI\n§lGAME", icon: "textures/button/minigame", action: "player_submenu", title: "§m§i§n§i§g§a§m§e" },
+  { text: "§l§eCREDIT", icon: "textures/button/credite", action: "player_submenu", title: "§c§r§e§d§i§t" }
 ];
 
 function playSound(player, soundId) {
@@ -236,15 +236,15 @@ function getSidebarText(player) {
   // Mengikuti tampilan Admin Suite: tidak ada text YOUR SERVER,
   // dan Device diganti menjadi Fps.
   return getSidebarThemeMarker(player) + [
-    `§fɴᴀᴍᴀ: §a${name}`,
-    `${(() => { const rank = getPlayerRankData(player); return `§fʀᴀɴᴋ: ${rank.color}${rank.label}`; })()}`,
-    `§fᴄʟᴀɴ: §f${getPlayerClan(player)}`,
-    "§fᴍᴏɴᴇʏ: §e$0",
+    `§eɴᴀᴍᴀ: §e${name}`,
+    `${(() => { const rank = getPlayerRankData(player); return `§eʀᴀɴᴋ: ${rank.color}${rank.label}`; })()}`,
+    `§eᴄʟᴀɴ: §e${getPlayerClan(player)}`,
+    "§eᴍᴏɴᴇʏ: §a$0",
     "§r ",
-    `§fᴏɴʟɪɴᴇ: §a${players.length}`,
-    "§fғᴘꜱ: §a60",
-    `§fᴛɪᴍᴇ: §b${getClockText()}`,
-    "§fᴛᴘꜱ: §a20.0"
+    `§eᴏɴʟɪɴᴇ: §e${players.length}`,
+    "§eғᴘꜱ: §e60",
+    `§eᴛɪᴍᴇ: §e${getClockText()}`,
+    "§eᴛᴘꜱ: §a20.0"
   ].join("\n");
 }
 
